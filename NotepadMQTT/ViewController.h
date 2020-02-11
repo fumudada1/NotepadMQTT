@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)UIbtnPush:(id)sender;
+
+@property (weak, nonatomic) IBOutlet UITextField *itxtTopic;
+@property (weak, nonatomic) IBOutlet UITextField *itxtMessage;
 
 @end
 
