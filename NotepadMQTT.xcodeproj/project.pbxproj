@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -97,7 +97,6 @@
 				8AC9D167C12E651BB726A0C5 /* Pods-NotepadMQTT.debug.xcconfig */,
 				8E103107841A136E5939EAC3 /* Pods-NotepadMQTT.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
